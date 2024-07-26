@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=Desert-Moonrise
+Description=display a moon rise
+Comment=created By Mick Amadio (01micko@gmail.com)
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/desert-moonrise
+ScriptFile=/usr/share/plymouth/themes/desert-moonrise/desert-moonrise.script
