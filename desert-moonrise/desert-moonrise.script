@@ -2,6 +2,7 @@
 ## Mail : 01micko@gmail.com
 ## Github : @01micko
 ## stolen from https://github.com/adi1090x/plymouth-themes
+## GPL-v2.0 or greater
 
 // Screen size
 screen.w = Window.GetWidth(0);
